@@ -1,3 +1,3 @@
 
 def solve(n):
-    ...
+    print('#')
